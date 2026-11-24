@@ -1,0 +1,4 @@
+# Never upload local secrets or tooling files (this is a static site: every uploaded file is public)
+.env*
+.gitignore
+.vercel
